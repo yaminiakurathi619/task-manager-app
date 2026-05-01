@@ -53,7 +53,7 @@ JWT (JSON Web Token) is used for secure authentication. Protected routes require
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 - Role-based admin access
 - UI enhancements
 - Deployment (Netlify / Render)
